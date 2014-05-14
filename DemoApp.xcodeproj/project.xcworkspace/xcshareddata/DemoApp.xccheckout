@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9FD03CCC-8317-49B4-98D4-0D78D1698547</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DemoApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EB0BF177-BB08-452E-9ABD-5F7E48D247C2</key>
+		<string>https://github.com/cupit/CollisionsAndContactsSpriteKit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DemoApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EB0BF177-BB08-452E-9ABD-5F7E48D247C2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cupit/CollisionsAndContactsSpriteKit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB0BF177-BB08-452E-9ABD-5F7E48D247C2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB0BF177-BB08-452E-9ABD-5F7E48D247C2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CollisionsAndContactsSpriteKit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
